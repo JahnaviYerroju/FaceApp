@@ -7,7 +7,11 @@ This is a real-time face recognition application built using Python and OpenCV. 
 Features ✅
 
 ✔️ Real-time face detection using OpenCV
+
 ✔️ Face recognition using deep learning-based embeddings
+
 ✔️ Multiple face storage & matching
+
 ✔️ Supports live camera input & static images
+
 ✔️ Scalable for security and attendance systems
